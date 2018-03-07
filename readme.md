@@ -1,4 +1,4 @@
-#Sentiment analysis example for the Brookhaven National Laboratory Postdoctoral application
+## Sentiment analysis example for the Brookhaven National Laboratory Postdoctoral application
 
 The purpose of this example is to demonstrate my ability to collect, work with, clean, and classify a 
 set of text documents related to a sentiment analysis problem in which the idea is to find the polarty
@@ -27,7 +27,7 @@ text documents from some known samples:
 	4. VectorRepresentation
 	5. TrainingTesting
  
-#Dspace work
+## Dspace work
 
 Additionally to the python examples, an ontology (OntologyExample.owl file) created in protégé https://protege.stanford.edu/ 
 is presented as an example of the kind of things in which I’m involve as a postdoctoral researcher.
